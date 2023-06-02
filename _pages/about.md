@@ -12,4 +12,4 @@ redirect_from:
 - MS, Electrical Engineering, Texas Tech University, Lubbock, TX, USA (2019)
 - BE, Electronics & Telecommunication Engineering, University of Mumbai, Mumbai,MH, India (2015)
 
-** Currently working as a Graduate Research Assistant (GRA) on Multiagent Wireless Data Communication for Precision Agriculture Applications **
+**Currently working as a Graduate Research Assistant (GRA) on Multiagent Wireless Data Communication for Precision Agriculture Applications**
