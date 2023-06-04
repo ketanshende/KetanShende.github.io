@@ -14,5 +14,5 @@ redirect_from:
 
 **Current research working as a Graduate Research Assistant (GRA) on following topics** 
 * Developing & Validating Multiagent Wireless Data Communication for Precision Agriculture Applications;
-* Workflow for examining Coverage pattern for PWM spraying systems;
+* Image processing workflow for examining Coverage pattern for PWM spraying systems;
 
