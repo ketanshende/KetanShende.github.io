@@ -1,19 +1,14 @@
 ---
 layout: archive
-title: "Awards"
+title: "Awards & Features"
 permalink: /awards/
 author_profile: true
 ---
 
 {% include base_path %}
-% ## Featured Articles
-* [GradSWE Graduate Member Spotlight: Kalie Knecht](http://gradswe.swe.org/gradswe-blog/graduate-member-spotlight-kalie-knecht) on GradSWE Blog - February 2020
+## Featured Articles
 
-* [The Prague Connection](https://ne.utk.edu/prague-connection/) on UTK NE Website - May 2019
-
-* [Kalie Knecht Leads with SWEet Volunteer Spirit](https://ne.utk.edu/kalie-knecht-leads-with-sweet-volunteer-spirit/) on UTK NE Website - February 2019
-
-* [American Nuclear Society shapes, connects nuclear scientists of tomorrow](http://www.utdailybeacon.com/news/student_oranizations/american-nuclear-society-shapes-connects-nuclear-scientists-of-tomorrow/article_16f177c4-2237-11e8-b65f-370f0ec25024.html) from UT Daily Beacon - March 2018
+* [Ketan Shende represented the Biological & Agricultural Engineering Department and College of Engineering at the 3 Minute Thesis Competition](https://www.k-state.edu/media/newsreleases/2022-03/3mt-winners3722.html) on Kansas State University Website - March 2022
 
 ## Awards
 ### UC Berkeley Department of Nuclear Engineering
