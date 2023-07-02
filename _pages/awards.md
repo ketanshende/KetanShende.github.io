@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Awards & Features"
+title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
 
 {% include base_path %}
-## Featured Articles
+% ## Featured Articles
 * [GradSWE Graduate Member Spotlight: Kalie Knecht](http://gradswe.swe.org/gradswe-blog/graduate-member-spotlight-kalie-knecht) on GradSWE Blog - February 2020
 
 * [The Prague Connection](https://ne.utk.edu/prague-connection/) on UTK NE Website - May 2019
